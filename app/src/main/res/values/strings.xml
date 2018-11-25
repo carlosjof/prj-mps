@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TestMaps</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="array_denuncia">
+        <item>Robo</item>
+        <item>Violencia</item>
+        <item>Venta</item>
+    </string-array>
+
+    <string-array name="array_robo">
+        <item>Persona</item>
+        <item>Casa</item>
+        <item>Carro</item>
+        <item>Negocio</item>
+    </string-array>
+
+    <string-array name="array_violenia">
+        <item>Familiar</item>
+        <item>Animal</item>
+    </string-array>
+
+    <string-array name="array_venta">
+        <item>Sustancias ilegales</item>
+        <item>Pirotecnia</item>
+    </string-array>
+
+
+</resources>
